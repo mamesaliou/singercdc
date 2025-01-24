@@ -1,0 +1,9 @@
+{
+  "postgres_host": "localhost",
+  "postgres_port": 5432,
+  "postgres_database": "destination_db",
+  "postgres_username": "start_data_engineer",
+  "postgres_password": "Password1234",
+  "postgres_schema": "destination",
+  "disable_collection": true
+}
