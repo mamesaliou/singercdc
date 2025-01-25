@@ -1,0 +1,10 @@
+{
+  "currently_syncing": null,
+  "bookmarks": {
+    "source_db-animals": {
+      "version": 1737818339891,
+      "log_file": "binlog.000002",
+      "log_pos": 2096
+    }
+  }
+}
